@@ -1,4 +1,4 @@
-# Práctica U1 — Git: ramas, conflicto y merge 
+# Examen U1 — Git: ramas, conflicto y merge 
 
 ## Reglas obligatorias
 1) **PROHIBIDO hacer merge a `main`.**
